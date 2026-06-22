@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Локальные бэкап-архивы сайта
+*.zip
+
+# Vercel CLI
+.vercel
